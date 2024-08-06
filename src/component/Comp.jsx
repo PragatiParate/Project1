@@ -2,7 +2,10 @@ import React from 'react'
 
 const Comp = () => {
   return (
-    <div>Comp</div>
+    <div>Comp
+    <h1>fasdtsahuashjsafh</h1>
+
+    </div>
   )
 }
 
